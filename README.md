@@ -12,4 +12,4 @@ Features: Instructions: The game instructions are accessible by clicking the "i"
 
 Wordle is developed using a combination of HTML, CSS, and JavaScript. The game leverages event listeners to capture player input and dynamically update the game board. The inclusion of asynchronous behaviors simulates the interaction with APIs, creating a responsive and engaging gaming environment.
 
-https://funny-entremet-b79a62.netlify.app/ 
+https://fabihat-wordle.netlify.app/ 
